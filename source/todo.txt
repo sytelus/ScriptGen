@@ -1,0 +1,27 @@
+ToDO:
+-----
+17. Add in reg: Usage Count, path, ver
+14. Add Scripting support
+12. Put Mail To button
+11. Put Save button
+
+13 Generate Delete statement
+6. Show the numbers of rows fetched.
+9. add Up/down arrow support in table name text box and select all in got focus.
+
+Will not be done:
+-----------------
+18. Support for chkbox in login box.
+
+Done:
+-----
+1. Replace ' with '' in string data
+2. Replace txt box with RichTextBox
+3. Test button should have accelarator
+4. If enter presses in table name text box, show data
+5. if already logged and cancel pressed then no action
+8. If login failed then clear everything, stop load.
+7. If no data & tried to script then show proper msg.
+15. Options should effect whole table scripting too.
+10. Set identity insert on/off
+16. Cancel SCripting support.
